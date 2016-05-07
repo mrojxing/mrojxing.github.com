@@ -1,0 +1,167 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+	}
+html,body{
+	}
+ul{
+	list-style:none;
+	}
+a{
+	text-decoration:none;
+	}
+.clear{
+	clear:both;
+	}
+input{
+	border:none;
+	}
+img{
+	border:none;
+	}
+#nav{
+	
+	}
+
+#nav .inner{
+	width:100%;
+	margin:0 auto;
+	padding-top:5%;
+	}
+#nav ul{
+	width:90%;
+	margin:0 5%;
+	}
+#nav li{
+	width:20%;
+	margin:0 5%;
+	float:left;
+	text-align:center;
+	}
+#nav .xiaojiantou{
+	width:10px;
+	height:10px;
+	margin:0 auto;
+	background:url(../images/xiaojiantou.png);
+	display:none;
+	}
+
+#nav img{
+	text-align:center;
+	}
+#nav p{
+	font-size:14px;
+	font-family:"微软雅黑";
+	line-height:20px;
+	}
+#xiaonav{
+	width:100%;
+	background:#27cac9;
+
+	}
+
+.xiaonav_inner{
+	width:100%;
+	}
+#xiaonav ul{
+	width:90%;
+	margin:0 5%;
+	}
+#xiaonav ul>li{
+	display:none;
+	}
+#xiaonav ul>li>a{
+	width:20%;
+	margin:0 5%;
+	text-align:center;
+	color:fff;
+	font-size:14px;
+	font-family:" 微软雅黑";
+	line-height:40px;
+	display:block;
+	float:left;
+	color:#fff;
+	}	
+#xiaonav ul>li>a:hover{
+	color:#7826ca;
+	}
+#xiaonav ul>.zhongxue2{
+	display:block;
+	}
+
+.jiange{
+	height:20px;
+	background:#efeef4;
+	border-bottom:1px solid #cfcfd1;
+	border-top:1px solid #cfcfd1;
+	}
+#main{
+	width:100%;
+	
+	}
+.main_inner{
+	width:100%;
+	}
+#main h3{
+	padding-left:5%;
+	font-size:20px;
+	line-height:30px;
+	font-family:" 微软雅黑";
+	border-bottom:1px solid #cfcfd1;
+	font-weight:normal;
+	}
+.main_1{
+	padding-left:5%;
+	border-bottom:1px solid #cfcfd1;
+	
+	}
+.main_left{
+	padding-right:5%;
+	width:150px;
+	height:150px;
+	float:left;
+	}
+.main_right{
+	
+	float:left;
+	height:150px;
+	}
+
+.main_right h4{
+	font-size:20px;
+	line-height:45px;
+	font-family:" 微软雅黑";
+	font-weight:normal;
+	padding-bottom:5px;
+	}
+.main_right p{
+	font-size:14px;
+	line-height:25px;
+	font-family:" 微软雅黑";
+	padding-bottom:10px;
+	color:#999;
+	}
+.main_right .money{
+	color:#27cac9;
+	font-size:20px;
+		line-height:40px;
+	}
+
+#fanhui a{
+	display:block;
+	height:15px;
+	width:29px;
+	background:url(../images/jiantou.png);
+	position:fixed;
+	right:5%;
+	bottom:2%;
+	}
+
+
+
+
+
+
+
