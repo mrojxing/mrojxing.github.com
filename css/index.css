@@ -9,7 +9,7 @@ html,body{
 ul{
 	list-style:none;
 	}
-a{
+a{  color:#000;
 	text-decoration:none;
 	}
 .clear{
@@ -119,26 +119,26 @@ img{
 	}
 .main_left{
 	padding-right:5%;
-	width:150px;
-	height:150px;
+	width:100px;
+	height:100px;
 	float:left;
 	}
 .main_right{
 	
 	float:left;
-	height:150px;
+	height:100px;
 	}
 
 .main_right h4{
 	font-size:20px;
-	line-height:45px;
+	line-height:25px;
 	font-family:" 微软雅黑";
 	font-weight:normal;
 	padding-bottom:5px;
 	}
 .main_right p{
 	font-size:14px;
-	line-height:25px;
+	line-height:16px;
 	font-family:" 微软雅黑";
 	padding-bottom:10px;
 	color:#999;
@@ -146,7 +146,7 @@ img{
 .main_right .money{
 	color:#27cac9;
 	font-size:20px;
-		line-height:40px;
+		line-height:25px;
 	}
 
 #fanhui a{
