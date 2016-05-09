@@ -96,6 +96,23 @@ img{
 	line-height:25px;
 	float:left;
 	}
+.money2{
+	color:#27cac9;
+	font-size:14px;
+	font-family:"微软雅黑";
+	padding-left:3%;
+	display:block;
+	line-height:25px;
+	
+	}
+.classname2{
+	font-size:14px;
+	font-family:"微软雅黑";
+	padding-left:3%;
+	line-height:25px;
+	display:block;
+
+	}
 .clear{
 	clear:both;
 	}
@@ -170,7 +187,7 @@ img{
 
 #xiangxi{
 	width:100%;
-	
+	margin-bottom:120px;
 	}
 #xiangxi ul{
 	width:100%;
@@ -207,13 +224,14 @@ img{
 	line-height:40px;
 
 	}
-
 #xiangxi .classname2{
 	font-size:14px;
 	font-family:"微软雅黑";
 	line-height:20px;
 
 	}
+
+
 #xiangxi .money2{
 	color:#27cac9;
 	font-size:16px;
